@@ -1,11 +1,11 @@
 # thorium-browser-openSUSE
-script that installs the greatest browser of all time (thorium-browser) on openSUSE
+script that installs the greatest browser of all time (thorium-browser) on gentoo linux
 
 
 # installion metod
-git clone https://github.com/howtoedittv/thorium-browser-openSUSE.git
+git clone https://github.com/howtoedittv/thorium-browser-gentoo.git
 
-cd thorium-browser-openSUSE 
+cd thorium-browser-gentoo
 
 su root
 
